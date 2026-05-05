@@ -1139,6 +1139,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JbuByssUzmGbuebndu](blurls/JbuByssUzmGbuebndu.json) | GAYLE - abcdefu (Instrumental)                                                |
 | [ZKOzlkbPzQFjYsGDih](blurls/ZKOzlkbPzQFjYsGDih.json) | GAYLE - abcdefu (Preview)                                                     |
 | [OxKBbtvnLDSHouTnvC](blurls/OxKBbtvnLDSHouTnvC.json) | GAYLE - abcdefu (Stereo Track)                                                |
+| [ijjcFwTgtUbVUBDrXv](blurls/ijjcFwTgtUbVUBDrXv.json) | Geese - Taxes                                                                 |
+| [VHFceJzmCwmBmiqCNb](blurls/VHFceJzmCwmBmiqCNb.json) | Geese - Taxes (Instrumental)                                                  |
+| [uwypZtiMHmQMTLKCJD](blurls/uwypZtiMHmQMTLKCJD.json) | Geese - Taxes (Preview)                                                       |
+| [RXJpsAyVbcGgHvHtCm](blurls/RXJpsAyVbcGgHvHtCm.json) | Geese - Taxes (Stereo Track)                                                  |
 | [qvcOOrzMHFMXfuIJCp](blurls/qvcOOrzMHFMXfuIJCp.json) | Ghost - Dance Macabre                                                         |
 | [epvsUkfkcgcrfvGrxU](blurls/epvsUkfkcgcrfvGrxU.json) | Ghost - Dance Macabre (Instrumental)                                          |
 | [jOWUaGqetGYdlNQukk](blurls/jOWUaGqetGYdlNQukk.json) | Ghost - Dance Macabre (Preview)                                               |
@@ -2526,6 +2530,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ndNmlohrASivvtHfEJ](blurls/ndNmlohrASivvtHfEJ.json) | The Darkness - I Believe in a Thing Called Love (Instrumental)                |
 | [rGOXiFCZfYZeImDBXu](blurls/rGOXiFCZfYZeImDBXu.json) | The Darkness - I Believe in a Thing Called Love (Preview)                     |
 | [TQJkcYHGHLFIUndoDk](blurls/TQJkcYHGHLFIUndoDk.json) | The Darkness - I Believe in a Thing Called Love (Stereo Track)                |
+| [humxySIoryQdJlAvNd](blurls/humxySIoryQdJlAvNd.json) | The Darkness - I Believe in a Thing Called Love (v2)                          |
+| [EVwfkcXYFuYitULKFs](blurls/EVwfkcXYFuYitULKFs.json) | The Darkness - I Believe in a Thing Called Love (v2) (Instrumental)           |
+| [EYMMrPFwgpddiPWbRB](blurls/EYMMrPFwgpddiPWbRB.json) | The Darkness - I Believe in a Thing Called Love (v2) (Preview)                |
+| [sGCwyzWhqUqBKTPmru](blurls/sGCwyzWhqUqBKTPmru.json) | The Darkness - I Believe in a Thing Called Love (v2) (Stereo Track)           |
 | [GNGENvcSHgKpfWLNDA](blurls/GNGENvcSHgKpfWLNDA.json) | The Killers - Mr. Brightside                                                  |
 | [PITopPPUmxvuFXBMpt](blurls/PITopPPUmxvuFXBMpt.json) | The Killers - Mr. Brightside (Instrumental)                                   |
 | [KGRprRNLfuTkgjehoV](blurls/KGRprRNLfuTkgjehoV.json) | The Killers - Mr. Brightside (Preview)                                        |

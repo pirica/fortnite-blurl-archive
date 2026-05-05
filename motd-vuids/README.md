@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [WSHDwauwfwPpZTCXAs](blurls/WSHDwauwfwPpZTCXAs.json) | Sweethearts Icon Series Emote |
 | [PnMkNkzQxHUCoUbcXg](blurls/PnMkNkzQxHUCoUbcXg.json) | Star Wars Islands Release Trailer |
 | [wNPuICBElILZeEXLKO](blurls/wNPuICBElILZeEXLKO.json) | Arena Release Trailer (SquareClub) |
 | [JgAXMNrNhSaODIfNtG](blurls/JgAXMNrNhSaODIfNtG.json) | LEGO Fortnite x Ninjago: New Weapons |
